@@ -6,12 +6,12 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.3/handlebars.js"></script>
 <script id="template" type="x-tmpl-mustache">
     <div class="flight">
-        Price: ${{ formatPrice total_price }} <br/>
+        Price: ${{ total_price }} <br/>
 
         <ul>
             {{#legs}}
                 <li>
-                    Flight Time: {{ duration }} Minutes
+                    Flight Time: {{ formatDuration duration }} Hours
                 </li>
                 <li>
                     Num Stops: {{ total_stops }}
@@ -30,8 +30,8 @@
 
 <script>
 
-    Handlebars.registerHelper('formatPrice', function(price) {
-        return price;
+    Handlebars.registerHelper('formatDuration', function(minutes) {
+        return minutes / 60;
     });
 
     function renderPage() {
