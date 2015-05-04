@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>Flight Prices</title>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.3/handlebars.js"></script>
+<script id="template" type="x-tmpl-mustache">
+    <div class="flight">
+        Price: ${{ formatPrice total_price }} <br/>
+
+        <ul>
+            {{#legs}}
+                <li>
+                    Flight Time: {{ duration }} Minutes
+                </li>
+                <li>
+                    Num Stops: {{ total_stops }}
+                </li>
+                <ul>
+                    {{#segments}}
+                        <li>
+                            {{ departure_location_code }} -> {{ arrival_location_code }} ({{ air_carrier_code }})
+                        </li>
+                    {{/segments}}
+                </ul>
+            {{/legs}}
+        </ul>
+    </div>
+</script>
+
+<script>
+
+    Handlebars.registerHelper('formatPrice', function(price) {
+        return price;
+    });
+
+    function renderPage() {
+        $.get( "flights.json", function( data ) {
+            for (i in data["flights"]) {
+                var source = $('#template').html();
+                var template = Handlebars.compile(source);
+                flight = data["flights"][i]
+                flight_elem = template(flight);
+                $("#flights").append(flight_elem);
+            }
+        });
+    }
+
+    renderPage();
+
+</script>
+</head>
+<body>
+    <div id="container">
+        <h3> Flights </h3>
+        <div id="flights">
+        </div>
+    </div>
+</body>
+</html>

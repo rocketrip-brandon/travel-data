@@ -1,0 +1,4724 @@
+{
+    "flights" :[
+        {
+            "legs": [
+                {
+                    "duration": 72, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:42:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 08:30:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 56.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 64, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:14:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 11:10:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 56.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 74, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 22:24:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 21:10:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 56.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 67, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:32:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 06:25:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 56.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 70, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:09:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 09:59:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 61.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 91, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:43:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 18:12:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 61.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 77, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 18:47:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 17:30:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 61.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 80, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 23:00:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 21:40:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 61.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 70, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:10:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 07:00:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 61.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 73, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:15:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 09:02:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 61.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 73, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:12:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 07:59:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 61.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 88, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 22:14:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 20:46:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 61.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 76, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:30:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 06:14:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 61.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 69, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:42:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 13:33:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 76.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 72, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 21:17:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 20:05:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 88.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 92, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 22:32:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 21:00:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 88.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 74, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:44:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 07:30:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 88.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 80, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:49:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 16:29:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 88.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 63, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:28:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:25:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 88.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 73, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:14:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 15:01:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 92.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 74, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:44:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 07:30:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 98.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 72, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 21:17:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 20:05:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 98.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 63, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:28:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 12:25:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 98.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 75, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:39:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 12:24:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 98.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 67, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:37:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 06:30:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 98.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 80, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:49:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 16:29:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 98.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 70, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:20:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 11:10:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 106.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 218, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 06:55:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:38:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 08:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 236, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:35:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 11:39:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:35:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 14:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 345, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 06:55:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:45:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 10:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 269, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 06:55:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:29:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 09:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 362, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:35:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 11:39:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:41:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 16:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 167, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:35:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 11:39:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:26:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 13:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 293, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:35:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 11:39:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:32:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 15:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 262, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:35:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 11:39:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:01:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 14:45:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 334, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:50:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 06:55:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:29:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 11:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 311, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 06:55:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:11:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 09:45:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 191, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:32:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 14:30:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:41:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 16:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 319, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:32:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 14:30:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:49:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 18:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 252, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:27:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 16:30:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 20:42:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 19:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 199, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:27:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 16:30:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:49:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 18:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 214, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:50:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 06:55:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:29:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 09:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 290, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:50:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 06:55:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:45:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 10:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 256, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:50:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 06:55:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:11:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 09:45:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 111.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 84, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:44:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 08:20:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 113.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 94, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 18:39:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 17:05:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 118.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 73, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-28 00:12:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 22:59:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 118.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 74, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:04:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 09:50:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 118.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 75, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:07:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 13:52:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 118.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 82, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 18:57:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 17:35:00", 
+                            "departure_location_code": "EWR"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 122.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 83, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:23:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 07:00:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 135.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 75, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:25:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 13:10:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 135.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 101, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:16:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 15:35:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 135.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 292, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:00:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:52:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 149.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 355, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:00:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:55:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 149.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 239, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:00:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 10:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 149.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 243, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:40:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 15:00:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:03:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 17:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 149.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 297, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:40:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 15:00:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:57:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 18:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 149.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 88, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 21:58:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 20:30:00", 
+                            "departure_location_code": "JFK"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 163.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 232, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BUF", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 18:49:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 17:00:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 20:52:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 19:30:00", 
+                            "departure_location_code": "BUF"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 164.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 216, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "IAD", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:45:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 10:24:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:00:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 12:27:00", 
+                            "departure_location_code": "IAD"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 171.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 396, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "IAD", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:59:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 12:35:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:11:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 17:31:00", 
+                            "departure_location_code": "IAD"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 191.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 290, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:50:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:55:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:45:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 10:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 199.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 334, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:50:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:55:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:29:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 199.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 244, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:32:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 14:30:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 18:34:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 17:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 199.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 230, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "IAD", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:17:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:50:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 08:15:00", 
+                            "departure_location_code": "IAD"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 211.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 240, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "IAD", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:38:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 10:00:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:00:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 12:27:00", 
+                            "departure_location_code": "IAD"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 211.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 236, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:35:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:39:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:35:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 219.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 345, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 06:55:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:45:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 10:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 219.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 218, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 06:55:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:38:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 219.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 262, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:35:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:39:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:01:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:45:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 219.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 214, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:50:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:55:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:29:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 219.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 167, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:35:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:39:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:26:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 219.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 76, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:16:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 18:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 78, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:18:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 10:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 77, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 18:17:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 17:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 79, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 20:19:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 19:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 68, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:08:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 68, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 22:08:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 21:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 68, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:08:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 07:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 78, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:18:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 16:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 73, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 21:13:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 20:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 62, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:02:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 74, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 20:14:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 19:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 78, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:18:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 73, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:13:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 15:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 68, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 23:07:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 21:59:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 78, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 21:18:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 20:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 66, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:06:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 82, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:22:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 16:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 64, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:04:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 85, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:24:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 17:59:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 71, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:10:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 06:59:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 83, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 18:23:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 17:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 72, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:11:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 13:59:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 79, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:18:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 12:59:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 83, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:23:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 12:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 76, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:15:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 10:59:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 83, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:23:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 10:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 82, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:21:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 08:59:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 67, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:06:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 07:59:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 75, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:14:00", 
+                            "air_carrier_code": "DL", 
+                            "departure_datetime": "2015-05-27 14:59:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 72, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:12:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 71, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:11:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 72, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:12:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 242.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 207, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BUF", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:33:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 07:05:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:32:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 09:10:00", 
+                            "departure_location_code": "BUF"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 259.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 441, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:52:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 06:39:00", 
+                            "departure_location_code": "EWR"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:00:00", 
+                            "air_carrier_code": "UA", 
+                            "departure_datetime": "2015-05-27 12:27:00", 
+                            "departure_location_code": "IAD"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 267.2
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 292, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:21:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 08:00:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:52:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 11:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 271.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 239, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:21:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 08:00:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:59:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 10:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 271.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 202, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BUF", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:59:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 11:35:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:57:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 13:35:00", 
+                            "departure_location_code": "BUF"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 289.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 402, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BUF", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:45:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 08:15:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:57:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 13:35:00", 
+                            "departure_location_code": "BUF"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 299.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 291, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BUF", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:59:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 11:35:00", 
+                            "departure_location_code": "JFK"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:26:00", 
+                            "air_carrier_code": "B6", 
+                            "departure_datetime": "2015-05-27 15:00:00", 
+                            "departure_location_code": "BUF"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 314.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 359, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:22:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 16:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 234, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:22:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:54:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 300, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:22:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:00:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 15:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 237, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:22:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 16:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:57:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 18:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 363, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:16:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:03:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 17:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 299, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:16:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 16:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 240, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:16:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:00:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 15:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 354, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:24:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 10:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:54:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 232, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:22:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:52:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 353, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:22:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:53:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 297, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 15:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:57:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 18:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 243, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 15:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:03:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 17:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 292, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:25:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:52:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 355, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:25:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:55:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 239, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:25:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 10:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 357, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:15:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:57:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 18:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 293, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:24:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 10:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:53:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 352, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:10:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 07:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:52:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 303, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:15:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:03:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 17:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 294, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:17:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:54:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 360, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:17:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:00:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 15:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 233, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:17:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:53:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 235, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:24:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 10:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:55:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 235, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 18:23:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 17:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 20:55:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 19:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 239, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:15:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 16:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 239, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:10:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 07:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 299, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:10:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 07:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 10:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 236, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:03:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:56:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 359, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:03:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 10:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 299, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:03:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 295, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:22:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:55:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 317.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 218, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:00:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:38:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 356, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:51:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:26:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 311, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:00:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:11:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:45:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 251, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:44:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:41:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 16:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 379, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:44:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:49:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 18:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 345, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:00:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:45:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 10:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 211, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:10:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:41:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 16:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 239, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:51:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:29:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 221, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:43:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 07:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:11:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:45:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 255, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:43:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 07:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:45:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 10:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 299, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:51:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:29:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 179, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:43:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 07:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:29:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 299, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:43:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 07:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:29:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 359, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:43:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 07:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:29:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 395, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:35:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 304, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:44:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 18:34:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 17:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 326, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:26:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 209, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:29:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 269, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:29:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 264, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:10:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 18:34:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 17:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 339, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:10:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:49:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 18:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 359, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:42:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:41:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 16:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 233, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:42:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:35:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 259, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:42:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:01:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:45:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 234, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:05:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 15:55:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:49:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 18:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 287, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:05:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 15:55:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 20:42:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 19:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 269, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:00:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:29:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 290, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:42:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:32:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 15:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 321.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 414, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:22:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:54:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 322.7
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 412, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:03:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:52:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 322.7
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 417, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:16:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:57:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 18:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 322.7
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 415, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:10:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 07:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:55:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 12:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 322.7
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 413, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:25:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:53:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 13:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 322.7
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 419, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "DCA", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:17:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 16:30:00", 
+                            "departure_location_code": "DCA"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 322.7
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 421, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:21:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 09:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:01:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:45:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 327.2
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 425, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:51:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:35:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 327.2
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 451, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:51:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 08:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:01:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 14:45:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 327.2
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 412, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:59:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 11:42:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 18:34:00", 
+                            "air_carrier_code": "US", 
+                            "departure_datetime": "2015-05-27 17:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 327.2
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 72, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 14:12:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 13:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 73, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 16:13:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 15:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 77, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 18:17:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 17:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 74, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 20:14:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 19:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 71, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:11:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 12:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 78, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:18:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 09:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 78, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 11:18:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 10:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 64, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 09:04:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 08:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 73, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 21:13:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 20:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 78, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 17:18:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 16:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 76, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 19:16:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 18:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 62, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 07:02:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 06:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 68, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:08:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 07:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 68, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 22:08:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 21:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 68, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:08:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 14:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 72, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:12:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 11:00:00", 
+                            "departure_location_code": "LGA"
+                        }
+                    ], 
+                    "total_stops": 0
+                }
+            ], 
+            "total_price": 328.1
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 359, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:43:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 07:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 13:29:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 12:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 351.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 299, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 08:43:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 07:30:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 12:29:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 11:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 351.6
+        }, 
+        {
+            "legs": [
+                {
+                    "duration": 395, 
+                    "segments": [
+                        {
+                            "arrival_location_code": "PHL", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 10:21:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 09:00:00", 
+                            "departure_location_code": "LGA"
+                        }, 
+                        {
+                            "arrival_location_code": "BOS", 
+                            "cabin_class": "Coach", 
+                            "arrival_datetime": "2015-05-27 15:35:00", 
+                            "air_carrier_code": "AA", 
+                            "departure_datetime": "2015-05-27 14:15:00", 
+                            "departure_location_code": "PHL"
+                        }
+                    ], 
+                    "total_stops": 1
+                }
+            ], 
+            "total_price": 351.6
+        }
+    ]
+}
